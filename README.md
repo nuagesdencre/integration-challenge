@@ -1,9 +1,11 @@
 # Integration Challenge
 
 #### Braintree / Paypal 
+Node.js, Javascript
 
 Basic Drop-in UI deployed on Heroku [here](https://bt-dropinui.herokuapp.com/)
 
+With script tag: https://nuagesdencre.github.io/integration-challenge/)
 ********
 
 ### [Theme: Start Bootstrap - Small Business](https://startbootstrap.com/template-overviews/small-business/)
