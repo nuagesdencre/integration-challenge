@@ -2,6 +2,7 @@
 
 #### Braintree / Paypal 
 
+Basic Drop-in UI deployed on Heroku [here](https://bt-dropinui.herokuapp.com/)
 
 ********
 
